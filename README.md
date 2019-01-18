@@ -16,6 +16,8 @@ perintah tersebut terdapat pada setiap baris.
 
 ***Contoh Penggunaannya :***
 
+> Penggunaan dockerfile yang saya gunakan dibawah ini adalah hasil dari ketika saya menggunakan katacoda pada saat praktikum sebelmunya.
+
 1. Membuat dockerfile terlebih dahulu, karena pada saat praktikum saya pernah menggunakan 
 katakoda maka dalam membuat dockerfile saya masuk dalam aplikasi katakoda.
 
